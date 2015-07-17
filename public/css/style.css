@@ -1,0 +1,88 @@
+h1{
+	color: #666;
+}
+
+.main{
+	text-align: center;
+}
+
+.errorsblock{
+	text-align: center;
+	width: 400px;
+	border: 1px solid #CD5C5C;
+	background: #c7c7c7;
+	margin-top: 40px;
+	padding: 10px;
+}
+
+.errorsblock > span{
+	color: #CD5C5C;
+	font-size: 18px;
+	font-family: Verdana, sans-serif;
+}
+
+.message {
+  border: 1px solid green;
+  width: 400px;
+  margin-top: 40px;
+  padding: 10px;
+}
+
+.message > span{
+	color: green;
+	font-size: 18px;
+	font-family: Verdana, sans-serif;
+}
+
+#uname{
+	color: #CD5C5C;
+}
+
+.dashboard > h2{
+	color: #666;
+}
+.dashboard > a{
+	color: #FFF;
+	display: block;
+	padding: 13px;
+	font-size: 20px;
+	background: #CD5C5C;
+	width: 100px;
+	text-decoration: none;
+}
+
+.content h2{
+	color: #c7c7c7;
+}
+
+#login, #password,
+#mail, #password_confirmation{
+	text-align: center;
+	font-size: 16px;
+	color: #FFA500;
+	background: #000;
+	border: 2px solid #CD5C5C;
+	border-radius: 15px;
+}
+
+button{
+	color: #FFF;
+	display: block;
+	padding: 5px;
+	font-size: 20px;
+	background: #CD5C5C;
+	width: 100px;
+	text-decoration: none;
+	cursor: pointer;
+	border: 1px solid #555; 
+}
+
+.content a{
+	color: #FFF;
+	display: block;
+	padding: 5px;
+	font-size: 20px;
+	background: #CD5C5C;
+	width: 100px;
+	text-decoration: none;
+}
